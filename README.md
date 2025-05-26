@@ -1,7 +1,8 @@
 # Chat with Your Documents
 
 A no-code AI agent that enables natural-language Q&A over your own documents (PDFs, Word files, text archives) using n8n, OpenAI GPT-4o Mini, and Quadrant.
-![image](https://github.com/user-attachments/assets/c1189500-bd3b-4bd2-b2f3-300d6a248a5a)
+![image](https://github.com/user-attachments/assets/5822f1ee-5933-4103-9ea5-07e0b919b7f2)
+
 
 
 ## 🔍 Use Case Overview
