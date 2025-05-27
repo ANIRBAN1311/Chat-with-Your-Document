@@ -25,14 +25,3 @@ In seconds, the AI assistant retrieves precise answers—coverage types, deducti
 - **Memory Node** – Context preservation across turns  
 
 ---
-
-## 📂 Project Structure
-
-```bash
-chat-with-docs-n8n/
-├── workflows/
-│   └── chat-with-docs.json      # n8n workflow definition
-├── docs/
-│   └── architecture.png         # (Optional) diagram image
-├── README.md                    # This file
-└── LICENSE                      # MIT License
